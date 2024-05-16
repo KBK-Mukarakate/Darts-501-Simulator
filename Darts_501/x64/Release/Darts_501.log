@@ -1,0 +1,11 @@
+﻿  Board.cpp
+  Darts_501.cpp
+  Player.cpp
+C:\Users\knund\OneDrive\Documents\University work\Computing\CMP102\Darts_501(S2, unit 2)\Darts_501\Darts_501\Player.cpp(117,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\knund\OneDrive\Documents\University work\Computing\CMP102\Darts_501(S2, unit 2)\Darts_501\Darts_501\Player.cpp(130,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  6 of 103 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Darts_501.vcxproj -> C:\Users\knund\OneDrive\Documents\University work\Computing\CMP102\Darts_501(S2, unit 2)\Darts_501\x64\Release\Darts_501.exe
